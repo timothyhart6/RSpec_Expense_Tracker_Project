@@ -1,10 +1,10 @@
-example_id                           | status  | run_time        |
------------------------------------- | ------- | --------------- |
-./spec/unit/app/api_spec.rb[1:1:1:1] | passed  | 0.00214 seconds |
-./spec/unit/app/api_spec.rb[1:1:1:2] | passed  | 0.03035 seconds |
-./spec/unit/app/api_spec.rb[1:1:2:1] | passed  | 0.00136 seconds |
-./spec/unit/app/api_spec.rb[1:1:2:2] | passed  | 0.00141 seconds |
-./spec/unit/app/api_spec.rb[1:2:1:1] | pending | 0.00001 seconds |
-./spec/unit/app/api_spec.rb[1:2:1:2] | pending | 0 seconds       |
-./spec/unit/app/api_spec.rb[1:2:2:1] | pending | 0.00001 seconds |
-./spec/unit/app/api_spec.rb[1:2:2:2] | pending | 0.00001 seconds |
+example_id                           | status | run_time        |
+------------------------------------ | ------ | --------------- |
+./spec/unit/app/api_spec.rb[1:1:1:1] | passed | 0.00636 seconds |
+./spec/unit/app/api_spec.rb[1:1:1:2] | passed | 0.00132 seconds |
+./spec/unit/app/api_spec.rb[1:1:2:1] | passed | 0.00124 seconds |
+./spec/unit/app/api_spec.rb[1:1:2:2] | passed | 0.00103 seconds |
+./spec/unit/app/api_spec.rb[1:2:1:1] | passed | 0.02945 seconds |
+./spec/unit/app/api_spec.rb[1:2:1:2] | passed | 0.00102 seconds |
+./spec/unit/app/api_spec.rb[1:2:2:1] | passed | 0.00089 seconds |
+./spec/unit/app/api_spec.rb[1:2:2:2] | passed | 0.00105 seconds |
